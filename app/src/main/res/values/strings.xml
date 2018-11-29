@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MvvmMyTipCalculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="tip_amount">Tip Amount</string>
+    <string name="text_percentage">percentage</string>
+    <string name="text_check">Check</string>
+    <string name="text_tip">Tip</string>
+    <string name="text_total">Total</string>
+    
+    <string name="dollar_amount">$%1$.02f</string>
+
+    <string name="save_hint">Enter Location</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="saved_name">Saved %1$s</string>
+    <string name="action_load">Load</string>
+    <string name="loaded_name">Load %1$s</string>
+</resources>

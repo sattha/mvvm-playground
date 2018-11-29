@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.viinsoft.playground.mvvmmytipcalculator.view.MainActivity">
+    <item
+        android:id="@+id/action_saved"
+        android:orderInCategory="100"
+        android:title="@string/action_save"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_load"
+        android:orderInCategory="100"
+        android:title="@string/action_load"
+        app:showAsAction="never" />
+</menu>
